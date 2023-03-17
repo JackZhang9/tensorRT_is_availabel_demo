@@ -1,0 +1,2 @@
+# tensorRT_is_availabel_demo
+tensorRT是否安装成功判断
